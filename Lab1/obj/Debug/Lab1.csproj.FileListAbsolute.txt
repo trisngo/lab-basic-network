@@ -1,0 +1,15 @@
+D:\UIT\C#Projects\Lab1\bin\Debug\Lab1.exe.config
+D:\UIT\C#Projects\Lab1\bin\Debug\Lab1.exe
+D:\UIT\C#Projects\Lab1\bin\Debug\Lab1.pdb
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.Form1.resources
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.exe
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.pdb
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.Lab01_Bai01.resources
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.Lab01_Bai02.resources
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.Lab01_Bai03.resources
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.Lab01_Bai04.resources
+D:\UIT\C#Projects\Lab1\obj\Debug\Lab1.Lab01_Bai05.resources

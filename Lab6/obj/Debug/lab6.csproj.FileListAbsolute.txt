@@ -1,0 +1,12 @@
+D:\UIT\HK4\C#Projects\lab6-crypto\bin\Debug\lab3.exe.config
+D:\UIT\HK4\C#Projects\lab6-crypto\bin\Debug\lab3.exe
+D:\UIT\HK4\C#Projects\lab6-crypto\bin\Debug\lab3.pdb
+D:\UIT\HK4\C#Projects\lab6-crypto\obj\Debug\lab3.Properties.Resources.resources
+D:\UIT\HK4\C#Projects\lab6-crypto\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\UIT\HK4\C#Projects\lab6-crypto\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\UIT\HK4\C#Projects\lab6-crypto\obj\Debug\lab3.exe
+D:\UIT\HK4\C#Projects\lab6-crypto\obj\Debug\lab3.pdb
+D:\UIT\HK4\C#Projects\lab6-crypto\obj\Debug\lab6.chat_client.resources
+D:\UIT\HK4\C#Projects\lab6-crypto\obj\Debug\lab6.dashboard.resources
+D:\UIT\HK4\C#Projects\lab6-crypto\obj\Debug\lab6.chat_server.resources
+D:\UIT\HK4\C#Projects\lab6-crypto\obj\Debug\lab6.csprojAssemblyReference.cache
